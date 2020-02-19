@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "Remote attestation protocol threat model",
+    "owner": "Julian van der Heijden",
+    "description": "Remote attestation protocol description along with relevant entities."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
